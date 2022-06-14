@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tutorial on Davuthan Yaman</title>
-    <link>https://davuthanyaman.com/tags/tutorial/</link>
+    <link>https://brooqs.github.io/dhyamancomtr/tags/tutorial/</link>
     <description>Recent content in tutorial on Davuthan Yaman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 11 Oct 2020 13:16:06 +0300</lastBuildDate>
     
-	<atom:link href="https://davuthanyaman.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://brooqs.github.io/dhyamancomtr/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Easy way Install Docker</title>
-      <link>https://davuthanyaman.com/posts/easy-way-install-docker/</link>
+      <link>https://brooqs.github.io/dhyamancomtr/posts/easy-way-install-docker/</link>
       <pubDate>Sun, 11 Oct 2020 13:16:06 +0300</pubDate>
       
-      <guid>https://davuthanyaman.com/posts/easy-way-install-docker/</guid>
+      <guid>https://brooqs.github.io/dhyamancomtr/posts/easy-way-install-docker/</guid>
       <description>The easy way to install Docker-CE
  [brooqs@cybertron ~]$ curl https://get.docker.com | sh Note: This method supports only distros like Debian,Ubuntu,Fedora,Centos,oraclelinux</description>
     </item>

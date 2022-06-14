@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Davuthan Yaman</title>
-        <link>https://davuthanyaman.com/posts/</link>
+        <link>https://brooqs.github.io/dhyamancomtr/posts/</link>
         <description>Recent content in Posts on Davuthan Yaman</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Sun, 11 Oct 2020 13:16:06 +0300</lastBuildDate>
-        <atom:link href="https://davuthanyaman.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://brooqs.github.io/dhyamancomtr/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Easy way Install Docker</title>
-            <link>https://davuthanyaman.com/posts/easy-way-install-docker/</link>
+            <link>https://brooqs.github.io/dhyamancomtr/posts/easy-way-install-docker/</link>
             <pubDate>Sun, 11 Oct 2020 13:16:06 +0300</pubDate>
             
-            <guid>https://davuthanyaman.com/posts/easy-way-install-docker/</guid>
+            <guid>https://brooqs.github.io/dhyamancomtr/posts/easy-way-install-docker/</guid>
             <description>The easy way to install Docker-CE
  [brooqs@cybertron ~]$ curl https://get.docker.com | sh Note: This method supports only distros like Debian,Ubuntu,Fedora,Centos,oraclelinux</description>
             <content type="html"><![CDATA[<p>The easy way to install Docker-CE</p>
@@ -27,10 +27,10 @@
         
         <item>
             <title>Linux Permission Numbers</title>
-            <link>https://davuthanyaman.com/posts/linux-permission-numbers/</link>
+            <link>https://brooqs.github.io/dhyamancomtr/posts/linux-permission-numbers/</link>
             <pubDate>Sun, 11 Oct 2020 11:55:47 +0300</pubDate>
             
-            <guid>https://davuthanyaman.com/posts/linux-permission-numbers/</guid>
+            <guid>https://brooqs.github.io/dhyamancomtr/posts/linux-permission-numbers/</guid>
             <description> 0 = Empty 1 = &amp;ndash;x -&amp;gt; Execute 2 = -w- -&amp;gt; Write 3 = -wx -&amp;gt; Write &amp;amp; Execute 4 = r&amp;ndash; -&amp;gt; Read 5 = r-x -&amp;gt; Read &amp;amp; Excute 6 = rw- -&amp;gt; Read &amp;amp; Write 7 = rwx -&amp;gt; Read,Write,  </description>
             <content type="html"><![CDATA[<ul>
 <li>0 = Empty</li>
